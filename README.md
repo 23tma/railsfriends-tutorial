@@ -1,3 +1,3 @@
 # FRIENDS LIST APP
 
-This is my Ruby on Rails Friends List App, following a tutorial by John Elder at Codemy.com
+This is my Ruby on Rails Friends List App, following an introduction to Ruby on Rails tutorial by John Elder at Codemy.com
