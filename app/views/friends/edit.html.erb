@@ -1,0 +1,10 @@
+<h1 class="mb-5">Editing friend</h1>
+
+<%= render "form", friend: @friend %>
+
+<br>
+
+<div class="hstack gap-1">
+  <%= link_to "Cancel", @friend, class:"btn btn-secondary" %> 
+  <%= button_to "Delete this friend", @friend, method: :delete, class:"btn btn-danger" %>
+</div>
